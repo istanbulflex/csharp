@@ -1,0 +1,10 @@
+C:\Users\Okul\Desktop\C Sharp\haftabir\obj\Debug\haftabir.csproj.AssemblyReference.cache
+C:\Users\Okul\Desktop\C Sharp\haftabir\obj\Debug\haftabir.Form1.resources
+C:\Users\Okul\Desktop\C Sharp\haftabir\obj\Debug\haftabir.Properties.Resources.resources
+C:\Users\Okul\Desktop\C Sharp\haftabir\obj\Debug\haftabir.csproj.GenerateResource.cache
+C:\Users\Okul\Desktop\C Sharp\haftabir\obj\Debug\haftabir.csproj.CoreCompileInputs.cache
+C:\Users\Okul\Desktop\C Sharp\haftabir\bin\Debug\haftabir.exe.config
+C:\Users\Okul\Desktop\C Sharp\haftabir\bin\Debug\haftabir.exe
+C:\Users\Okul\Desktop\C Sharp\haftabir\bin\Debug\haftabir.pdb
+C:\Users\Okul\Desktop\C Sharp\haftabir\obj\Debug\haftabir.exe
+C:\Users\Okul\Desktop\C Sharp\haftabir\obj\Debug\haftabir.pdb
