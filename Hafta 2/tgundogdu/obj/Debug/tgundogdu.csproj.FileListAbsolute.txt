@@ -1,0 +1,10 @@
+C:\Users\Okul\source\repos\tgundogdu\bin\Debug\tgundogdu.exe.config
+C:\Users\Okul\source\repos\tgundogdu\bin\Debug\tgundogdu.exe
+C:\Users\Okul\source\repos\tgundogdu\bin\Debug\tgundogdu.pdb
+C:\Users\Okul\source\repos\tgundogdu\obj\Debug\tgundogdu.csproj.AssemblyReference.cache
+C:\Users\Okul\source\repos\tgundogdu\obj\Debug\tgundogdu.Form1.resources
+C:\Users\Okul\source\repos\tgundogdu\obj\Debug\tgundogdu.Properties.Resources.resources
+C:\Users\Okul\source\repos\tgundogdu\obj\Debug\tgundogdu.csproj.GenerateResource.cache
+C:\Users\Okul\source\repos\tgundogdu\obj\Debug\tgundogdu.csproj.CoreCompileInputs.cache
+C:\Users\Okul\source\repos\tgundogdu\obj\Debug\tgundogdu.exe
+C:\Users\Okul\source\repos\tgundogdu\obj\Debug\tgundogdu.pdb
